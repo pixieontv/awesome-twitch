@@ -83,3 +83,4 @@ Browser widgets for OBS to add more functionality to your stream.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
+- [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
