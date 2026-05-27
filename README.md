@@ -4,6 +4,7 @@ A list of awesome twitch streaming tools
 ## Index
 
 You can navigate directly to the categories.
+- [Widgets](#widgets)
 - [Analytics](#analytics)
 - [Chat Bots](#chat-bots)
 - [Chat Clients](#chat-clients)
@@ -11,9 +12,23 @@ You can navigate directly to the categories.
 - [Emotes](#emotes)
 - [OBS Plugins](#obs-plugins)
 - [Misc Tools](#misc-tools)
-- [Widgets](#widgets)
+- [Development](#development)
 
 ## Content
+
+### Widgets
+
+Browser widgets for OBS to add more functionality to your stream.
+
+- [All-Chat](https://allch.at) Free, open-source chat overlay that merges Twitch with YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
+- [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
+- [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
+- [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
+- [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
+- [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
+- [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
+- [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
+- [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
 
 ### Analytics
 
@@ -39,6 +54,7 @@ Alternative chat clients that bring more utilities or provide additional support
 - [Chatterino](https://chatterino.com/) A cross-platform chat client.
 - [Chatterino7](https://github.com/SevenTV/chatterino7) A fork of Chatterino that support 7TV.
 - [Chatty](https://chatty.github.io/) Java-based chat client for Twitch.
+- [Frosty](https://github.com/tommyxchow/frosty) A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 
 ### Emote Tools
 
@@ -67,7 +83,7 @@ Various utilities for your stream that do not fall into a specific category
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 
-## OBS Plugins
+### OBS Plugins
 
 Software to start streaming
 
@@ -75,16 +91,12 @@ Software to start streaming
 - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
 - [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream.
 
-### Widgets
+### Development
 
-Browser widgets for OBS to add more functionality to your stream.
+Section dedicated to the development of integrations, plugins, widgets and streaming tools.
 
-- [All-Chat](https://allch.at) Free, open-source chat overlay that merges Twitch with YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
-- [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
-- [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
-- [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
-- [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
-- [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
-- [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
-- [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
-- [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
+> Note: The following section is technical in nature and intended for power users.
+
+- [Streamlink](https://github.com/streamlink/streamlink) Streamlink is a CLI utility which pipes video streams from various services into a video player.
+- [tmi.js](https://github.com/tmijs/tmi.js) Javascript library for the Twitch Messaging Interface.
+- [twurple](https://github.com/twurple/twurple) Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
