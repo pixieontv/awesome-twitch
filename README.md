@@ -47,6 +47,7 @@ Tools and utilities about emotes.
 - [Emote Tester](https://levi506.net/emote-tester/) App to allow for previewing Twitch and Discord emotes.
 - [Twitch Emotes](https://twitchemotes.com/) It allows you to view the emotes of any channel.
 - [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) Automatically resize emotes to required sizes.
+- [EmoteResizer](https://emoteresizer.net) Free toolkit for streamers: resize emotes, sub/bit badges and stickers to exact Twitch, Discord, Kick, Slack, 7TV and YouTube sizes (animated GIFs supported), plus Twitch Bits and subscription revenue calculators. Browser-based, no signup.
 
 ### Emotes
 
