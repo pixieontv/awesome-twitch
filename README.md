@@ -80,6 +80,7 @@ Various utilities for your stream that do not fall into a specific category
 
 - [BetterStreams](https://betterstreams.tv) Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category and redemption analytics.
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
+- [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
