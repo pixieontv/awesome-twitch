@@ -29,6 +29,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
+- [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
 
 ### Analytics
 
