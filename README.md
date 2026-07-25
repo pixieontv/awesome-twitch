@@ -20,6 +20,7 @@ You can navigate directly to the categories.
 
 Browser widgets for OBS to add more functionality to your stream.
 
+- [AlertForge](https://alertforge.ai) AI stream overlay and alert generator. One prompt gives you animated Starting Soon/BRB scenes, alert videos with sound, Twitch panels and a transparent cam frame as alpha-channel WebM for OBS.
 - [All-Chat](https://allch.at) Free, open-source chat overlay that merges Twitch with YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
 - [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
